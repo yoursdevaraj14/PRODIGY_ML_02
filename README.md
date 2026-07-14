@@ -56,6 +56,6 @@ python customer_segmentation.py
 
 ## 👨‍💻 Author
 
-**Sathwik B**
+**DEVARAJU B**
 
 B.Tech CSM Student | Machine Learning Enthusiast
